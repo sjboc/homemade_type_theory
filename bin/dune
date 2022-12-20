@@ -1,0 +1,4 @@
+(executable
+ (public_name homemade_type_theory)
+ (name main)
+ (libraries homemade_type_theory))
