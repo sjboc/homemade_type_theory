@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/homemade_type_theory/META"
+  "_build/install/default/lib/homemade_type_theory/dune-package"
+  "_build/install/default/lib/homemade_type_theory/opam"
+]
+bin: [
+  "_build/install/default/bin/homemade_type_theory"
+]
